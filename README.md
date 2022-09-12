@@ -6,5 +6,5 @@ I have multiple years of experience of with Roblox Studio, Unity, Unreal Engines
 You can find examples of stuff I've worked on at [my website](https://austengralheer35.square.site/).
 
 <p align="center">
-  <img src="https://austengralheer35.square.site/uploads/b/5f8a82f780dfb3d79c4fccd3d929812a2921eaf01ff56deb620db743704c107d/Austen-142-2_1622671734.jpg?width=800" />
+  <img src="https://drive.google.com/uc?export=view&id=1w1aGcQyc9cabnOXe4SgHBfS18dLpj8GM" />
 </p>
